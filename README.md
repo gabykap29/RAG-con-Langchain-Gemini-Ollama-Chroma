@@ -1,4 +1,4 @@
-# 📚 RAG Educativo con Streamlit + Gemini + Chroma
+# 📚 RAG con Langchain + Ollama + Gemini + Chroma
 
 Este proyecto es una demostración de un sistema RAG (Retrieval-Augmented Generation) educativo. Permite cargar documentos PDF (por ejemplo, apuntes de cursos), indexarlos con embeddings, y luego generar ejercicios prácticos usando un modelo de lenguaje como Gemini (via `langchain-google-genai`).
 
